@@ -45,10 +45,10 @@ Atualmente cursando o 2º período de Análise de Desenvolvimento de Sistemas  n
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **a corrida do prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]([./projeto-ia-churn/](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/a-corrida-do-prompt)) |
-| **batalha de modelos & engenharia de prompt (xml)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **do clone ao produto mínimo viável(mvp+)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **engenharia reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
-| **laboratório de classificação visual** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **batalha de modelos & engenharia de prompt (xml)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]([./projeto-ia-churn/](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/batalha-de-modelos-%26-engenharia-de-prompt-(xml))) |
+| **do clone ao produto mínimo viável(mvp+)** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/do-clone-ao-produto-m%C3%ADnimo-vi%C3%A1vel-(mvp%2B)) |
+| **engenharia reversa** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/engenharia-reversa) |
+| **laboratório de classificação visual** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/laborat%C3%B3rio-de-classifica%C3%A7%C3%A3o-visual) |
  
 ---
  
