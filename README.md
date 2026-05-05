@@ -45,7 +45,6 @@ Atualmente cursando o 2º período de Análise de Desenvolvimento de Sistemas  n
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **a corrida do prompt** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto]([./projeto-ia-churn/](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/a-corrida-do-prompt)) |
-| Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
  
