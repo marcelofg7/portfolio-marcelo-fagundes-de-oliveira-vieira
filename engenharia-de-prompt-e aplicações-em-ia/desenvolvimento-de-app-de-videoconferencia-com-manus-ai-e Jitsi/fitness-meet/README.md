@@ -1,38 +1,47 @@
-# 💅 StudioMeet: Consultoria Estética em Vídeo
+# 💪 Fitness meet: Consultoria Fitness e Treino Remoto
 
 ## 🔗 Acesso e Instalação
 
 * **Link de Pré-visualização:** [Acessar o app na Manus AI](https://manus.im/app/mvsNeSRVEo4T6m8k6Vsmfo)
-* **Instalação Rápida:** Escaneie o código abaixo com seu dispositivo Android para testar.
+* **Instalação Rápida:** Escaneie o QR Code abaixo com seu Android para testar a versão Alpha.
 
 ![QR Code do App](URL_DO_QR_CODE_AQUI)
-*Figura 1: QR Code gerado pela Manus AI para instalação facilitada.*
+*Figura 1: QR Code para instalação e testes rápidos via Manus AI.*
 
 ---
 
 ## 💡 Proposta de Valor
 
-O **StudioMeet** vai muito além de um simples aplicativo de videochamadas. Ele foi projetado com um forte foco em usabilidade para solucionar um gargalo comum no nicho de salões de beleza: a necessidade de pré-avaliação para serviços detalhados, como design de sobrancelhas e alongamentos de unhas.
+O **IronMeet** resolve o principal problema do treino à distância: a execução incorreta de exercícios que pode levar a lesões. Enquanto a maioria dos apps apenas registra cargas, o IronMeet utiliza o framework **Jitsi Meet** para conectar alunos e Personal Trainers em tempo real.
 
-Desenvolvido de forma assistida pela **Manus AI** e integrado ao SDK do **Jitsi Meet**, o aplicativo permite que o profissional realize uma triagem virtual da cliente. Essa etapa melhora significativamente a jornada do usuário, ajudando a alinhar expectativas estéticas, analisar condições iniciais e definir orçamentos antes mesmo do encontro presencial, economizando tempo para ambas as partes de forma prática e interativa.
+O diferencial está na **Consultoria de Execução**. O app permite que o treinador acompanhe a série do aluno por vídeo, realizando correções biomecânicas imediatas, ajuste de postura e motivação direta. É a experiência da academia presencial levada para qualquer lugar, focada em segurança e alta performance.
 
 ---
 
-## 📸 Demonstração do Aplicativo
+## 📸 Demonstração do Fluxo
 
-![Capturas de Tela e Fluxo de Uso](URL_DO_GIF_OU_IMAGEM_AQUI)
-*Figura 2: Interface intuitiva focada na experiência do usuário e ambiente de chamada do Jitsi Meet.*
+![Demonstração do App](URL_DO_GIF_OU_IMAGEM_AQUI)
+*Figura 2: Interface de monitoramento e ambiente de chamada para correção postural.*
 
 ---
 
 ## 🚀 Instruções de Uso
 
-O processo de teste e utilização foi simplificado para garantir a melhor experiência:
+Para iniciar um acompanhamento ou aula experimental:
 
-1. **Acesse o App:** Utilize o Link de Pré-visualização ou leia o QR Code acima com o seu smartphone Android.
-2. **Permissões:** Ao abrir pela primeira vez, conceda as permissões de câmera e microfone solicitadas pelo sistema para que o Jitsi Meet funcione corretamente.
-3. **Criação da Sala:** Na tela inicial, digite o nome do serviço ou o seu nome para gerar uma "Sala de Avaliação" única.
-4. **Conexão:** Clique em "Iniciar Consultoria" para entrar na videochamada. O link da sala pode ser facilmente copiado para ser enviado à cliente.
+1. **Abra o Aplicativo:** Utilize o link gerado pela Manus AI ou o QR Code acima.
+2. **Configure seu Perfil:** Informe brevemente seu objetivo (Hipertrofia, Emagrecimento ou Condicionamento).
+3. **Crie uma Sala de Treino:** Digite o nome do treino do dia (ex: "Treino_A_Marcelo") para gerar um link seguro.
+4. **Convide seu Coach:** Envie o link da sala para seu Personal Trainer.
+5. **Inicie a Conexão:** Ao entrar na sala, posicione o celular de forma que sua execução seja visível para que as correções em tempo real comecem.
 
 ---
-[Voltar ao início](#-studiomeet-consultoria-estética-em-vídeo)
+
+## 🛠️ Tecnologias Utilizadas
+
+* **Framework de Vídeo:** Jitsi Meet SDK (Open Source)
+* **Assistência de Desenvolvimento:** Manus AI (IA Generativa)
+* **Plataforma Target:** Android
+
+---
+[Voltar ao topo](#-ironmeet-consultoria-fitness-e-treino-remoto)
