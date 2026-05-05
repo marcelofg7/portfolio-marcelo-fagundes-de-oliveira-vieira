@@ -39,7 +39,8 @@ Atualmente cursando o 2º período de Análise de Desenvolvimento de Sistemas  n
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/modelagem-de-banco-de-dados/resolver-problemas-de-dados-desorganizados) |
+| **Mini mundo** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/modelagem-de-banco-de-dados/mini-mundo) |
  
 #### 🤖 Inteligência Artificial & Engenharia de Prompt
 | Projeto | Descrição | Link |
