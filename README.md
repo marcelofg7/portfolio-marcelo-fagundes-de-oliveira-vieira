@@ -50,7 +50,7 @@ Atualmente cursando o 2º período de Análise de Desenvolvimento de Sistemas  n
 | **Do Clone ao MVP+** | Evolução de um modelo base para um Produto Mínimo Viável com funcionalidades adicionais. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-do-clone-ao-produto-minimo-viavel) |
 | **Engenharia Reversa** | Desconstrução de prompts complexos para entender a lógica de raciocínio da IA. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-engenharia-reversa) |
 | **Classificação Visual** | Laboratório de visão computacional aplicado à classificação e reconhecimento de imagens. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-laboratorio-de-classificacao-visual) |
-| **Classificação Visual** | Explorar o potencial das ferramentas de IA Generativa para a criação de conteúdo artístico. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia) |
+| **Composição musical assistida por inteligência artificial** | Explorar o potencial das ferramentas de IA Generativa para a criação de conteúdo artístico. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia) |
  
 ---
  
