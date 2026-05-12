@@ -45,7 +45,7 @@ Atualmente cursando o 2º período de Análise de Desenvolvimento de Sistemas  n
 #### 🤖 Inteligência Artificial & Engenharia de Prompt
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A Corrida do Prompt** | Técnicas avançadas de escrita de instruções para otimizar resultados em LLMs. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/a-corrida-do-prompt) |
+| **A Corrida do Prompt** | Técnicas avançadas de escrita de instruções para otimizar resultados em LLMs. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-a-corrida-do-prompt) |
 | **Batalha de Modelos & XML** | Comparação de performance entre modelos utilizando estruturação de dados em XML. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/batalha-de-modelos-%26-engenharia-de-prompt-(xml)) |
 | **Do Clone ao MVP+** | Evolução de um modelo base para um Produto Mínimo Viável com funcionalidades adicionais. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/do-clone-ao-produto-m%C3%ADnimo-vi%C3%A1vel-(mvp%2B)) |
 | **Engenharia Reversa** | Desconstrução de prompts complexos para entender a lógica de raciocínio da IA. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/engenharia-reversa) |
