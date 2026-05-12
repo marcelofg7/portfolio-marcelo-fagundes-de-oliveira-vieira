@@ -51,6 +51,7 @@ Atualmente cursando o 2º período de Análise de Desenvolvimento de Sistemas  n
 | **Engenharia Reversa** | Desconstrução de prompts complexos para entender a lógica de raciocínio da IA. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-engenharia-reversa) |
 | **Classificação Visual** | Laboratório de visão computacional aplicado à classificação e reconhecimento de imagens. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-laboratorio-de-classificacao-visual) |
 | **Composição musical assistida por inteligência artificial** | Explorar o potencial das ferramentas de IA Generativa para a criação de conteúdo artístico. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia) |
+| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integrar tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source (Jitsi Meet) para criar uma solução funcional de videoconferência para Android, focando em usabilidade e criatividade. | [Ver Projeto](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-desenvolvimento-de-app-de-videoconferencia-com-manus-ai-e%20Jitsi) |
  
 ---
  
