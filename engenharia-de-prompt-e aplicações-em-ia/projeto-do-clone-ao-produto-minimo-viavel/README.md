@@ -28,4 +28,4 @@ A transição da escrita de código manual para o "Desenvolvimento Assistido por
 * **Ambiente IA Studio:** [Acessar a configuração do prompt (Share Link)](https://ai.studio/apps/795578cd-c67c-45a9-82a6-271f6962989b)
 
 ---
-[⬅️ Atividade Anterior](https://github.com/marcelofg7/Portifolio_Marcelo_Fagundes/tree/550f4c966254c0e09111dac3436a048da7b15be1/engenharia%20de%20prompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/engenharia%20reversa) | [Voltar ao repositório principal](https://github.com/marcelofg7/Portifolio_Marcelo_Fagundes)
+[⬅️ Atividade Anterior](https://github.com/marcelofg7/Portifolio_Marcelo_Fagundes/tree/550f4c966254c0e09111dac3436a048da7b15be1/engenharia%20de%20prompt%20e%20aplica%C3%A7%C3%B5es%20em%20ia/engenharia%20reversa) | [Voltar ao repositório principal](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira)
