@@ -12,7 +12,7 @@
 
 ## 💡 Proposta de Valor
 
-O **IronMeet** resolve o principal problema do treino à distância: a execução incorreta de exercícios que pode levar a lesões. Enquanto a maioria dos apps apenas registra cargas, o IronMeet utiliza o framework **Jitsi Meet** para conectar alunos e Personal Trainers em tempo real.
+O **IronMeet** resolve o principal problema do treino à distância: a execução incorreta de exercícios que pode levar a lesões. Enquanto a maioria dos apps apenas registra cargas, o Fitness meet utiliza o framework **Jitsi Meet** para conectar alunos e Personal Trainers em tempo real.
 
 O diferencial está na **Consultoria de Execução**. O app permite que o treinador acompanhe a série do aluno por vídeo, realizando correções biomecânicas imediatas, ajuste de postura e motivação direta. É a experiência da academia presencial levada para qualquer lugar, focada em segurança e alta performance.
 
