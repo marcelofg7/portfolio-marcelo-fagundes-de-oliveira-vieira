@@ -20,11 +20,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Cais e Vento.] | Samba/Pagode | [Arquivo MP3](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/tree/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia/musicas-e-letras#:~:text=..-,Cais%20e%20Vento.,-mp3) |
-| 02 | [Título 02] | Samba/Pagode | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | [Título 03] | Samba/Pagode | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Título 04] | Samba/Pagode | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | [Título 05] | Samba/Pagode | [Arquivo MP3](./audio/musica5.mp3) |
+| 01 | [Cais e Vento.] | Samba/Pagode | [Arquivo MP3](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/blob/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia/musicas-e-letras/Cais%20e%20Vento.mp3) |
+| 02 | [Desconfiado] | Samba/Pagode | [Arquivo MP3](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/blob/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia/musicas-e-letras/Desconfiado.mp3) |
+| 03 | [Eu alone] | Samba/Pagode | [Arquivo MP3](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/blob/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia/musicas-e-letras/Eu%20alone.mp3) |
+| 04 | [Quero mais] | Samba/Pagode | [Arquivo MP3](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/blob/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia/musicas-e-letras/Quero%20mais.mp3) |
+| 05 | [Recomeço de Segunda] | Samba/Pagode | [Arquivo MP3](https://github.com/marcelofg7/portfolio-marcelo-fagundes-de-oliveira-vieira/blob/main/engenharia-de-prompt-e%20aplica%C3%A7%C3%B5es-em-ia/projeto-musica-ia/musicas-e-letras/Recome%C3%A7o%20de%20Segunda.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
